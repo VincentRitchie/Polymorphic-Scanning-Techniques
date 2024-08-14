@@ -35,7 +35,7 @@ cd Polymorphic-Scanning-Techniques
 To use this project, run the following command:
 
 ```sh
-python polymorphic_scanner.py
+python polymorphic_scanning.py
 ```
 
 Follow the prompts to create and execute your scanning tools.
