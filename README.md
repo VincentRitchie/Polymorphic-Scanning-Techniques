@@ -2,7 +2,7 @@
 # Polymorphic Scanning Techniques
 
 <a>
-  <img src="https://github.com/VincentRitchie/Pentesting-Tools-Class-Hierarchy/blob/main/pentesting_hierarchy%20images.jpeg" alt="Logo" width="650" />
+  <img src="https://github.com/VincentRitchie/Polymorphic-Scanning-Techniques/blob/main/Polymorphism-in-Python.webp" alt="Logo" width="650" />
 </a>
 
 ## Table of Contents
@@ -43,7 +43,7 @@ Follow the prompts to create and execute your scanning tools.
 ## Screenshot
 
 <a>
-  <img src="https://github.com/VincentRitchie/Polymorphic-Scanning-Techniques/blob/main/polymorphic_scanner_screenshot.png" alt="Screenshot" width="650" />
+  <img src="https://github.com/VincentRitchie/Polymorphic-Scanning-Techniques/blob/main/Polymorphic%20Scanning%20Scrnshot.png" alt="Screenshot" width="650" />
 </a>
 
 ## Future Enhancements
